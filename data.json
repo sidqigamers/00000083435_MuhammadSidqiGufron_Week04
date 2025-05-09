@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Alucard",
+      "email": "alucard@vampire.com",
+      "photo_url": "./assets/alucard.jpg"
+    },
+    {
+      "name": "Corleone",
+      "email": "corleone@mafia.com",
+      "photo_url": "./assets/corleone.jpg"
+    },
+    {
+      "name": "Sepi",
+      "email": "sepi@alone.com",
+      "photo_url": "./assets/Sepi.jpg"
+    }
+]
+  
